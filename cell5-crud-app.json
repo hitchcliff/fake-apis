@@ -160,6 +160,7 @@
             "last_name": "Smith",
             "mobile_number": "493-170-9623 x156",
             "bills": 100000,
+            "gender": "Male",
             "paid": true,
             "isPaid": 0
         }
