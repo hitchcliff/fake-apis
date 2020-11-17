@@ -3,7 +3,6 @@
     "params": {
         "date": "nov 17-19, 2020"
     },
-    "properties": {
         "clients": [
             {
                 "id": 1,
@@ -150,5 +149,4 @@
                 "isPaid": 0
             }
         ]
-    }
 }
