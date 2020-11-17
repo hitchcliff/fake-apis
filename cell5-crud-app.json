@@ -11,7 +11,7 @@
             "mobile_number": "1-770-736-8031 x56442",
             "bills": 231,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 2,
@@ -20,7 +20,7 @@
             "mobile_number": "010-692-6593 x09125",
             "bills": 400,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 3,
@@ -29,7 +29,7 @@
             "mobile_number": "1-463-123-4447",
             "bills": 300,
             "gender": "Female",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "mobile_number": "493-170-9623 x156",
             "bills": 4020,
             "gender": "Female",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 5,
@@ -47,7 +47,7 @@
             "mobile_number": "(254)954-1289",
             "bills": 3031,
             "gender": "Female",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 6,
@@ -56,7 +56,7 @@
             "mobile_number": "1-477-935-8478 x6430",
             "bills": 280,
             "gender": "Female",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 7,
@@ -65,7 +65,7 @@
             "mobile_number": "210.067.6132",
             "bills": 10300,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 8,
@@ -74,7 +74,7 @@
             "mobile_number": "(775)976-6794 x41206",
             "bills": 40300,
             "gender": "Female",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 9,
@@ -83,7 +83,7 @@
             "mobile_number": "586.493.6943 x140",
             "bills": 500,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 10,
@@ -92,7 +92,7 @@
             "mobile_number": "024-648-3804",
             "bills": 31,
             "gender": "Female",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 11,
@@ -101,7 +101,7 @@
             "mobile_number": "024-648-3804",
             "bills": 80,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 12,
@@ -110,7 +110,7 @@
             "mobile_number": "024-648-3804",
             "bills": 70,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 13,
@@ -119,7 +119,7 @@
             "mobile_number": "024-648-3804",
             "bills": 7000,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 14,
@@ -128,7 +128,7 @@
             "mobile_number": "(775)976-6794 x41206",
             "bills": 8000,
             "gender":"Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 15,
@@ -137,7 +137,7 @@
             "mobile_number": "(775)976-6794 x41206",
             "bills": 2500,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         },
         {
             "id": 16,
@@ -146,7 +146,7 @@
             "mobile_number": "493-170-9623 x156",
             "bills": 100000,
             "gender": "Male",
-            "paid": false,
+            "paid": false
         }
     ]
 }
