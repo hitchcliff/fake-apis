@@ -11,8 +11,7 @@
             "mobile_number": "1-770-736-8031 x56442",
             "bills": 231,
             "gender": "Male",
-            "paid": true,
-            "isPaid": 1
+            "paid": false,
         },
         {
             "id": 2,
@@ -22,7 +21,6 @@
             "bills": 400,
             "gender": "Male",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 3,
@@ -32,7 +30,6 @@
             "bills": 300,
             "gender": "Female",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 4,
@@ -41,8 +38,7 @@
             "mobile_number": "493-170-9623 x156",
             "bills": 4020,
             "gender": "Female",
-            "paid": true,
-            "isPaid": 1
+            "paid": false,
         },
         {
             "id": 5,
@@ -52,7 +48,6 @@
             "bills": 3031,
             "gender": "Female",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 6,
@@ -62,7 +57,6 @@
             "bills": 280,
             "gender": "Female",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 7,
@@ -72,7 +66,6 @@
             "bills": 10300,
             "gender": "Male",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 8,
@@ -81,8 +74,7 @@
             "mobile_number": "(775)976-6794 x41206",
             "bills": 40300,
             "gender": "Female",
-            "paid": true,
-            "isPaid": 1
+            "paid": false,
         },
         {
             "id": 9,
@@ -91,8 +83,7 @@
             "mobile_number": "586.493.6943 x140",
             "bills": 500,
             "gender": "Male",
-            "paid": true,
-            "isPaid": 1
+            "paid": false,
         },
         {
             "id": 10,
@@ -101,8 +92,7 @@
             "mobile_number": "024-648-3804",
             "bills": 31,
             "gender": "Female",
-            "paid": true,
-            "isPaid": 1
+            "paid": false,
         },
         {
             "id": 11,
@@ -112,7 +102,6 @@
             "bills": 80,
             "gender": "Male",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 12,
@@ -122,7 +111,6 @@
             "bills": 70,
             "gender": "Male",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 13,
@@ -132,7 +120,6 @@
             "bills": 7000,
             "gender": "Male",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 14,
@@ -142,7 +129,6 @@
             "bills": 8000,
             "gender":"Male",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 15,
@@ -152,7 +138,6 @@
             "bills": 2500,
             "gender": "Male",
             "paid": false,
-            "isPaid": 0
         },
         {
             "id": 16,
@@ -161,8 +146,7 @@
             "mobile_number": "493-170-9623 x156",
             "bills": 100000,
             "gender": "Male",
-            "paid": true,
-            "isPaid": 0
+            "paid": false,
         }
     ]
 }
